@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tope</h1>
 <h3 align="center">CyberSecurity Engineer | Blockchain Enthusiast</h3>
 
-- 🌱 I’m currently learning **Rust, Go, and Techniques for Exploiting Vulnerabilities in Their Systems**
+- 🌱 I’m currently learning **Rust, Go, and Techniques for Exploiting Vulnerabilities in Systems**
 
 
 <h3 align="left">Languages and Tools:</h3>
