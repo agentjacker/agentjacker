@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tope</h1>
-<h3 align="center">CyberSecurity Engineer | Blockchain Enthusiast</h3>
+<h3 align="center">Security Engineer</h3>
 
 - 🌱 I’m currently learning **Rust, Go, and Techniques for Exploiting Vulnerabilities in Systems**
 
